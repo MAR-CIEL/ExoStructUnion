@@ -68,7 +68,7 @@ int main()
 	tab_ensebleCasier[2] = c2;
 
 	//utilisation de la fonction cout permettant d'afficher dans le terminal de débogage
-	//ici on verra grace a la fonction sizeof les octet que occupe les différentes variable
+	//ici on verra grace a la fonction sizeof les octet que occupe les différentes variable 
 	cout << sizeof(pa1.poids) << endl;
 	cout << sizeof(strcpy_s(pa1.ref, "frmdlyondec")) << endl;
 	cout << sizeof(ro1.longueur) << endl;
